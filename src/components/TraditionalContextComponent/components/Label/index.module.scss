@@ -1,0 +1,13 @@
+.label {
+  padding: 4px 8px;
+
+  &__name {
+    width: 100px;
+    display: inline-block;
+  }
+
+  &__text {
+    width: 200px;
+    display: inline-block;
+  }
+}
